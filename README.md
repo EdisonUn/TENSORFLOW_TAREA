@@ -5,6 +5,7 @@
 
 ## CAPTURAS DE TENSOR MODEL MAKER
 ![alt text](https://github.com/EdisonUn/TENSORFLOW_TAREA/blob/master/Aprendizaje%20de%20api.png)
+![alt text](https://github.com/EdisonUn/TENSORFLOW_TAREA/blob/master/Linkdata.png)
 
 ## DATASET USADO
 ![alt text](https://github.com/EdisonUn/TENSORFLOW_TAREA/blob/master/Dataset.png)
