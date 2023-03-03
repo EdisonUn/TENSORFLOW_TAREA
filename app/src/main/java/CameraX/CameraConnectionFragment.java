@@ -1,4 +1,4 @@
-package com.example.RealtimeDetection_GoogleMLKit;
+package CameraX;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -42,7 +42,8 @@ import android.widget.Toast;
 import androidx.annotation.RequiresApi;
 import androidx.core.app.ActivityCompat;
 
-import com.example.RealtimeDetection_GoogleMLKit.R;
+
+import com.example.visionapi.R;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.example.RealtimeDetection_GoogleMLKit;
+package CameraX;
 
 import android.graphics.Bitmap;
 import android.os.Environment;

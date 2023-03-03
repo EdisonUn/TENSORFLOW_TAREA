@@ -1,4 +1,4 @@
-package com.example.RealtimeDetection_GoogleMLKit;
+package CameraX;
 
 import android.content.Context;
 import android.util.AttributeSet;
